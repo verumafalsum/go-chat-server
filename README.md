@@ -1,4 +1,5 @@
 # Go Chat Server ✉
+[![Go Report Card](https://goreportcard.com/badge/github.com/verumafalsum/go-chat-server)](https://goreportcard.com/report/github.com/verumafalsum/go-chat-server)
 
 Simple chat application.
 
